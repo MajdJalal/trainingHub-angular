@@ -8,7 +8,7 @@ import { Observable } from 'rxjs';
 })
 export class AccountService {
 
-  private apiUrl = 'http://localhost:8080/accounts/v1';
+  private apiUrl = 'http://localhost:8072/accounts/v1';
 
   
 
